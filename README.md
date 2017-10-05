@@ -1,4 +1,2 @@
 # hello-world
-Just cheacking how GitHub works 
-
-Makinga some changes.
+I am Timi, I am taking the CS50 course at the edX
